@@ -1,0 +1,17 @@
+{
+  "name": "h0x0er",
+  "version": "0.3.3",
+  "description": "TradeCraft for CyberSecurity Professionals",
+  "repository": "h0x0er/tccp",
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint": "^13.7.2",
+    "@primer/css": "^15.2.0",
+    "prettier": "^2.1.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-primer": "^9.2.1",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-selector-no-utility": "^4.0.0"
+  },
+  "dependencies": {}
+}
