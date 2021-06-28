@@ -2,49 +2,49 @@
     "doc": "Android Debug Bride (ADB)",
     "title": "Android Debug Bride (ADB)",
     "content": "## ADB ",
-    "url": "https://cyber-rosh.github.io/docs/tools/adb/",
+    "url": "https://cyber-rosh.github.io/tccp/docs/tools/adb/",
     "relUrl": "/docs/tools/adb/"
   },"1": {
     "doc": "ApkTools",
     "title": "ApkTools",
     "content": "## ApkTools ",
-    "url": "https://cyber-rosh.github.io/docs/tools/apktools/",
+    "url": "https://cyber-rosh.github.io/tccp/docs/tools/apktools/",
     "relUrl": "/docs/tools/apktools/"
   },"2": {
     "doc": "Books",
     "title": "Books",
     "content": " ",
-    "url": "https://cyber-rosh.github.io/docs/books",
+    "url": "https://cyber-rosh.github.io/tccp/docs/books",
     "relUrl": "/docs/books"
   },"3": {
     "doc": "ByteCodeViewer",
     "title": "ByteCodeViewer",
     "content": "### ByteCode Viewer ",
-    "url": "https://cyber-rosh.github.io/docs/tools/bytecodeViewer/",
+    "url": "https://cyber-rosh.github.io/tccp/docs/tools/bytecodeViewer/",
     "relUrl": "/docs/tools/bytecodeViewer/"
   },"4": {
     "doc": "Frida",
     "title": "Frida",
     "content": "### Frida ",
-    "url": "https://cyber-rosh.github.io/docs/tools/frida/",
+    "url": "https://cyber-rosh.github.io/tccp/docs/tools/frida/",
     "relUrl": "/docs/tools/frida/"
   },"5": {
     "doc": "Index",
     "title": "Index",
     "content": "### Table of Content. * Tools. * Books. * Blogs. * Vulnerable Apps. ",
-    "url": "https://cyber-rosh.github.io/docs/",
+    "url": "https://cyber-rosh.github.io/tccp/docs/",
     "relUrl": "/docs/"
   },"6": {
     "doc": "Tools",
     "title": "Tools",
     "content": "# Tools ",
-    "url": "https://cyber-rosh.github.io/docs/tools",
+    "url": "https://cyber-rosh.github.io/tccp/docs/tools",
     "relUrl": "/docs/tools"
   },"7": {
     "doc": "Vulnerable Apps",
     "title": "Vulnerable Apps",
     "content": " ",
-    "url": "https://cyber-rosh.github.io/docs/vuln_apps",
+    "url": "https://cyber-rosh.github.io/tccp/docs/vuln_apps",
     "relUrl": "/docs/vuln_apps"
   }
 }
